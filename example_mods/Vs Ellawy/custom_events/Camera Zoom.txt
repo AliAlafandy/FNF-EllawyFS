@@ -1,0 +1,3 @@
+Enable:
+Value 1: Zoom distance.
+Value 2: Nothing.

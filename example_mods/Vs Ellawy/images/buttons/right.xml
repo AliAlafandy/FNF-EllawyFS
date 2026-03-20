@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="button.png">
+    <!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nonPress0000" x="5" y="2" width="126" height="125"/>
+	<!-- SubTexture name="Pressed0000" x="137" y="2" width="126" height="125"/-->
+	<SubTexture name="Pressed0000" x="268" y="2" width="126" height="125"/>
+</TextureAtlas>

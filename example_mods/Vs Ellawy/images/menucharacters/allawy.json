@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Allawy",
+	"position": [
+		230,
+		140
+	],
+	"scale": 0.55,
+	"idle_anim": "M Allawy Idle",
+	"confirm_anim": "M Allawy Idle"
+}

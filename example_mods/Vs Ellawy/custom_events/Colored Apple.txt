@@ -1,0 +1,3 @@
+How to Work:
+Value 1: Seconds.
+Value 2: Optional Zoom.

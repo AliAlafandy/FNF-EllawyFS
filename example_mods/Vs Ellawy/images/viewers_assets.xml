@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="viewers_assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle beat name0000" x="0" y="0" width="2260" height="729" frameX="-153" frameY="-541" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0001" x="0" y="0" width="2260" height="729" frameX="-153" frameY="-541" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0002" x="0" y="729" width="2254" height="725" frameX="-153" frameY="-545" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0003" x="0" y="729" width="2254" height="725" frameX="-153" frameY="-545" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0004" x="0" y="1454" width="2248" height="721" frameX="-153" frameY="-549" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0005" x="0" y="1454" width="2248" height="721" frameX="-153" frameY="-549" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0006" x="0" y="1454" width="2248" height="721" frameX="-153" frameY="-549" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0007" x="0" y="1454" width="2248" height="721" frameX="-153" frameY="-549" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0008" x="0" y="729" width="2254" height="725" frameX="-153" frameY="-545" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0009" x="0" y="729" width="2254" height="725" frameX="-153" frameY="-545" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0010" x="0" y="0" width="2260" height="729" frameX="-153" frameY="-541" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0011" x="0" y="0" width="2260" height="729" frameX="-153" frameY="-541" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0012" x="0" y="0" width="2260" height="729" frameX="-153" frameY="-541" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0013" x="0" y="0" width="2260" height="729" frameX="-153" frameY="-541" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="idle beat name0014" x="0" y="0" width="2260" height="729" frameX="-153" frameY="-541" frameWidth="2560" frameHeight="1400"/>
+</TextureAtlas>

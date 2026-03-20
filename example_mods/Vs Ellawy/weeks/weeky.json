@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Fire-Beat", "ellawy", [0, 0, 0]]
+	],
+	"weekCharacters": [
+		"allawy",
+		"bf",
+		"gf"
+	],
+	
+	"weekBackground": "street",
+	"difficulties": "Normal, Hard, Alio, Easy",
+	"storyName": "Ali Alafandy",
+	"weekBefore": "tutorial",
+	"weekName": "WeekY",
+	
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

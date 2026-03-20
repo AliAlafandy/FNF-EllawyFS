@@ -1,0 +1,3 @@
+How to work:
+Value 1: Add (three, two, one or go).
+Value 2: Remove (three, two, one or go).

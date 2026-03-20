@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="bgasset.png" width="4228" height="4543">
+	<SubTexture name="bg1" x="1587.0" y="0.0" width="527.0" height="1456.5" rotated="true" frameX="-64.0" frameY="-305.5" frameWidth="1584.5" frameHeight="970.0" />
+	<SubTexture name="bg2" x="0.0" y="1737.0" width="726.5" height="491.5" frameX="-429.0" frameY="-336.5" frameWidth="1584.5" frameHeight="970.0" />
+	<SubTexture name="bg3" x="0.0" y="972.5" width="1439.0" height="762.0" frameX="-73.0" frameY="-208.0" frameWidth="1584.5" frameHeight="970.0" />
+	<SubTexture name="sky" x="0.0" y="0.0" width="1584.5" height="970.0" frameX="-0.0" frameY="-0.0" frameWidth="1584.5" frameHeight="970.0" />
+	<SubTexture name="tree" x="1441.5" y="1459.0" width="639.5" height="812.5" frameX="-285.5" frameY="-157.5" frameWidth="1584.5" frameHeight="970.0" />
+</TextureAtlas>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Allawy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="M Allawy Idle0000" x="1094" y="600" width="351" height="600" frameX="-226" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0001" x="1094" y="600" width="351" height="600" frameX="-226" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0002" x="1473" y="0" width="351" height="596" frameX="-226" frameY="-24" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0003" x="1473" y="0" width="351" height="596" frameX="-226" frameY="-24" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0004" x="1473" y="596" width="351" height="592" frameX="-226" frameY="-28" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0005" x="1473" y="596" width="351" height="592" frameX="-226" frameY="-28" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0006" x="1473" y="596" width="351" height="592" frameX="-226" frameY="-28" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0007" x="1473" y="596" width="351" height="592" frameX="-226" frameY="-28" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0008" x="1473" y="0" width="351" height="596" frameX="-226" frameY="-24" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0009" x="1473" y="0" width="351" height="596" frameX="-226" frameY="-24" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0010" x="1094" y="600" width="351" height="600" frameX="-226" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0011" x="1094" y="600" width="351" height="600" frameX="-226" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0012" x="1094" y="600" width="351" height="600" frameX="-226" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0013" x="1094" y="600" width="351" height="600" frameX="-226" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Idle0014" x="1094" y="600" width="351" height="600" frameX="-226" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0000" x="730" y="600" width="364" height="600" frameX="-213" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0001" x="730" y="600" width="364" height="600" frameX="-213" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0002" x="0" y="0" width="372" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0003" x="0" y="0" width="372" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0004" x="372" y="0" width="371" height="600" frameX="-203" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0005" x="372" y="0" width="371" height="600" frameX="-203" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0006" x="365" y="600" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0007" x="365" y="600" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0008" x="365" y="600" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0009" x="365" y="600" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0010" x="0" y="600" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0011" x="0" y="600" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0012" x="743" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0013" x="743" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0014" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0015" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0016" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0017" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0018" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0019" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0020" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0021" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0022" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0023" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0024" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="M Allawy Hey0025" x="1108" y="0" width="365" height="600" frameX="-206" frameY="-20" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

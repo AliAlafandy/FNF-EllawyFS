@@ -1,0 +1,7 @@
+{
+	"name": "Vs Gummibar",
+	"description": "from GummyBear OneShot",
+	"restart": false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+}

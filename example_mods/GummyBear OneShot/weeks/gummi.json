@@ -1,0 +1,19 @@
+{
+	"songs": [
+		["Gummibar", "gummibar", [93, 234, 96]]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	
+	"weekBackground": "stage",
+	"storyName": "Your New Week",
+	"weekBefore": "tutorial",
+	"weekName": "Custom Week",
+	
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
