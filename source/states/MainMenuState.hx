@@ -89,7 +89,7 @@ class MainMenuState extends MusicBeatState
 			menuItem.screenCenter(X);
 		}
 
-		var modVer:FlxText = new FlxText(12, FlxG.height - 64, 0, "EllawyFS v" + modEngineVersion, 12);
+		var modVer:FlxText = new FlxText(12, FlxG.height - 64, 0, "EllawyFS v" + modVersion, 12);
 		modVer.scrollFactor.set();
 		modVer.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(modVer);
